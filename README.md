@@ -23,13 +23,15 @@ To run the game locally, follow these steps:
 1. Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/AtharvaKulkarniIT/Rock-Paper-Scissor.git
-   
+   git clone https://github.com/ga1robe/Rock-Paper-Scissor.git
+
+   ```
+
 That's it! You don't need to install any additional dependencies.
 
 ## Usage
 
-Simply open the `index.html` file in your web browser. You can start playing the game immediately. 
+Simply open the `index.html` file in your web browser. You can start playing the game immediately.
 
 ## Contributing
 
@@ -41,7 +43,7 @@ Contributions are welcome! If you want to contribute to this project, follow the
 4. Push to the branch: `git push origin feature/your-feature`.
 5. Create a pull request.
 
-Please ensure your pull request is in line with the project's coding style and standards. 
+Please ensure your pull request is in line with the project's coding style and standards.
 
 ## License
 
